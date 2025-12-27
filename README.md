@@ -6,5 +6,5 @@ I’m **Taha**, a Computer Engineering student focused on **research, algorithms
 **Areas of interest:** Machine Learning, AI, software testing, real-life ML problems  
 
 ### 🌐 Links
-- **LinkedIn:** [muhibtahaboy](https://www.linkedin.com/in/muhibtahaboy)  
+- **LinkedIn:** [taha](https://www.linkedin.com/in/muhibtahaboy)  
 - **Blog:** [www.bizimgelecegimiz.com](https://www.bizimgelecegimiz.com) – Technology & future thinks articles
